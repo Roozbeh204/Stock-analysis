@@ -1,5 +1,5 @@
 # Stock-analysis
-*  ## The puropse of the project**
+# The puropse of the project**
 *  We created Macros so that we do not need to run Analysis for each of the stock separately and we can see all the reults at the same time
 *  Due to conditional formatting, Steve willl be able to see how the analysis have been quickly
 * Updated Macro's can be used to run the analysis for any year.
